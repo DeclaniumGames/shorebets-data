@@ -1,0 +1,24 @@
+[
+  {
+    "track": "ASCOT",
+    "time": "14:30",
+    "race": "R1",
+    "distance": "6f Hcap",
+    "horse": "THUNDER STRIKE",
+    "odds": 3.2,
+    "winProb": 38,
+    "value": 21,
+    "note": "Strong pace collapse expected. Handles soft ground well."
+  },
+  {
+    "track": "ASCOT",
+    "time": "15:05",
+    "race": "R2",
+    "distance": "1m",
+    "horse": "GOLDEN RUN",
+    "odds": 5.5,
+    "winProb": 22,
+    "value": 8,
+    "note": "Improving form. Trainer in good shape."
+  }
+]
